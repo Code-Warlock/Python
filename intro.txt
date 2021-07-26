@@ -1,0 +1,17 @@
+				Installations
+--------	VSCode
+--------	Python IDLE
+--------	Anaconda
+
+
+
+#########			Command prompt navigation
+
+C Drive
+
+
+cd/ ------ Navigate to the C drive
+dir ----- check contents of a directory
+mkdir folder_name ----- Used to create directories with a defined name
+rmdir folder_name ----- Used to delete directories with a defined name
+cd.. or cd../ ----- Leaves a directory to the parent directory
