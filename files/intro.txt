@@ -1,4 +1,4 @@
-				Installations
+				Installations and Teaching Tunde How to open files in python
 --------	VSCode
 --------	Python IDLE
 --------	Anaconda
