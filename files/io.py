@@ -9,11 +9,12 @@
 #
 # f.close()
 # print(f.closed)
-name = input("Enter your name : ")
-f = open(name[0]+".txt","w")
-f.write(name)
-f.close()
+# name = input("Enter your name : ")
+# f = open(name[0]+".txt","w")
+# f.write(name)
+# f.close()
 # read
+
 # readlines/readline
 
 #     Writing to a file
@@ -28,3 +29,11 @@ f.close()
 # f.write(" World")
 # f.write("\nAppend is just so good")
 # f.close()
+
+
+
+
+f = open("new.txt","w+")
+print(f.read())
+f.write("Hello R+ Mode")
+print(f.read())
