@@ -2,10 +2,16 @@ test.html
 test.py
 module1.py
 lambda.py
+OOP1.py
 func.py
 dynamic.js
 dynamic.html
+dates2.py
+dates3.py
 download test.docx
 args_kwargs.py
-__pycache_
+__pycache_/
 ATM_PACKAGE/
+OOP_PACKAGE/
+Marking_guide/
+GUI/
