@@ -36,8 +36,8 @@ import random
 #     random.shuffle(word)
 #     word = "".join(word)
 #     return word
-say_name = lambda name : "اثممخ " + name
+# say_name = lambda name : " " + name
 
 
 
-print(say_name("Desmond"))
+# print(say_name("Desmond"))
