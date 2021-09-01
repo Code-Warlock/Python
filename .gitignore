@@ -10,8 +10,8 @@ dates2.py
 dates3.py
 download test.docx
 args_kwargs.py
-__pycache_/
-ATM_PACKAGE/
-OOP_PACKAGE/
-Marking_guide/
-GUI/
+__pycache__/*
+ATM_PACKAGE/*
+OOP_PACKAGE/*
+Marking_guide/*
+GUI/*
