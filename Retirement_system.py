@@ -1,4 +1,4 @@
-"""Working with dates and time """
+"""Retirement System Program in Python """
 from datetime import date,time,datetime,timedelta
 status = input("Sign Up or Login : ").lower()
 if "login" in status or "logged" in status:
@@ -45,5 +45,3 @@ Age              ===>  {today_age}years
 Age Joined => {age_as_at_joined}years
 Date due to Retire ==> {retire:%A,%B,%Y}
 """)
-# present = time(12,34,45)
-# print(present)
